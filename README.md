@@ -44,4 +44,11 @@ The following steps are only for _one_ of the group members to perform.
 
 
 ## Screenshot
-*******Dishes page
+*******Order Dishes 
+![dishes page](https://github.com/Jolinlovecode/food-pick-up-ordering/blob/master/docs/Order%20dishes.png?raw=true)
+*******Order Placed
+![order placed](https://github.com/Jolinlovecode/food-pick-up-ordering/blob/master/docs/Order%20Placed.png?raw=true)
+******Order Confirm
+![order confirm](https://github.com/Jolinlovecode/food-pick-up-ordering/blob/master/docs/Order%20Confirm.png?raw=true)
+******Msg to Customer
+![msg](https://github.com/Jolinlovecode/food-pick-up-ordering/blob/master/docs/Msg%20to%20Customer.png?raw=true)
